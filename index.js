@@ -13,7 +13,6 @@ const app = express();
 dotenv.config();
 
 const allowedOrigins = [
-  "https://course-app-rho-three.vercel.app",
   "https://course-app-frontend-three.vercel.app",
 ];
 
